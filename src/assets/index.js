@@ -50,7 +50,6 @@ export {
   databricks,
   mysql,
   python,
-  express,
   aws,
   postgresql,
   docker,
