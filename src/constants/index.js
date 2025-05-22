@@ -80,6 +80,44 @@ const services = [
 
 const technologies = [
   {
+    name: "Microsoft Azure",
+    icon: MicrosoftAzure,
+  },
+  {
+    name: "Docker",
+    icon: docker,
+  },
+  {
+    name: "PostgreSQL",
+    icon: postgresql,
+  },
+  {
+    name: "Databricks",
+    icon: databricks,
+  },
+  {
+    name: "AI",
+    icon: ai,
+  },
+  {
+    name: "ETL",
+    icon: etl,
+  },
+  {
+    name: "Cybersecurity",
+    icon: cybersecurity,
+  },
+  {
+    name: "Cloud",
+    icon: cloud,
+  },
+  {
+    name: "aws",
+    icon: aws,
+  },
+
+  
+  {
     name: "HTML 5",
     icon: html,
   },
@@ -91,14 +129,8 @@ const technologies = [
     name: "Azure",
     icon: azure,
   },
-  {
-    name: "JavaScript",
-    icon: javascript,
-  },
-  {
-    name: "React JS",
-    icon: reactjs,
-  },
+ 
+ 
   {
     name: "gsap",
     icon: gsap,
