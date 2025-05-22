@@ -6,8 +6,6 @@ import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
-import gsap from './tech/gsap.png'
-import framer from './tech/framer.png';
 import gearXpert from './gearXpert.png';
 import project3 from './project3.webp';
 import project2 from './proj1.webp'
@@ -57,8 +55,6 @@ export {
   secondTestimonial,
   thirdTestimonial,
   gsap,
-  framer,
-  figma,
   git,
   html,
   mongodb,
