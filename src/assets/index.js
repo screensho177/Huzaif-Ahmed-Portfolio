@@ -54,12 +54,9 @@ export {
   firstTestimonial,
   secondTestimonial,
   thirdTestimonial,
-  gsap,
   git,
   html,
   mongodb,
-  redux,
-  tailwind,
   threejs,
 
 };
