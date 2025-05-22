@@ -15,19 +15,17 @@ import {
   project3,
   mysql,
   python,
-  express,
   aws,
-  mui,
-  
-  gsap,
-  framer,
-  figma,
+  etl,
+  ai,
+  cybersecurity,
+  cloud,
+  databricks, 
+  postgresql,
+  docker,
   git,
   html,
-  javascript,
   mongodb,
-  nodejs,
-  reactjs,
   redux,
   tailwind,
   threejs,
@@ -129,25 +127,11 @@ const technologies = [
     name: "Azure",
     icon: azure,
   },
- 
- 
-  {
-    name: "gsap",
-    icon: gsap,
-  },
-  {
-    name: "framer",
-    icon: framer,
-  },
 
  
   {
     name: "Three JS",
     icon: threejs,
-  },
-  {
-    name: "figma",
-    icon: figma,
   },
   {
     name: "Redux Toolkit",
@@ -156,18 +140,6 @@ const technologies = [
   {
     name: "Tailwind CSS",
     icon: tailwind,
-  },
-  {
-    name: "Material Ui",
-    icon: mui,
-  },
-  {
-    name: "Node JS",
-    icon: nodejs,
-  },
-  {
-    name: "Express Js",
-    icon: express,
   },
   {
     name: "AWS",
