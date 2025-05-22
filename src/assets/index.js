@@ -9,6 +9,7 @@ import close from "./close.svg";
 import gsap from './tech/gsap.png'
 import framer from './tech/framer.png';
 import css from "./tech/css.png";
+import azure from "./tech/azure.png";
 import figma from "./tech/figma.png";
 import gearXpert from './gearXpert.png';
 import project3 from './project3.webp';
@@ -40,6 +41,7 @@ export {
   menu,
   close,
   css,
+  azure,
   gearXpert,
   project2,
   project3,
