@@ -14,6 +14,7 @@ import {
   project2,
   project3,
   mysql,
+  python,
   express,
   aws,
   mui,
@@ -147,6 +148,10 @@ const technologies = [
   {
     name: "MySql",
     icon: mysql,
+  },
+  {
+    name: "Python",
+    icon: python,
   },
 
   {
