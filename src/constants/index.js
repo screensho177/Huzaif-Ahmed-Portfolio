@@ -196,16 +196,16 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Full-Stack Developer",
-    company_name: "Tekisky",
+    title: "Data Engineer",
+    company_name: "Tata Consultancy Services",
     icon: tekisky,
     iconBg: "#383E56",
-    date: "Jan 2023 - present",
+    date: "Dec 2021 - present",
     points: [
-      "Developing and maintaining web applications using MERN technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Developed scalable data pipelines with Azure Data Factory, Databricks, Kafka, and Airflow. Used Snowflake and Delta Lake for large-scale processing.",
+      "Automated workflows with Python and SQL, reducing latency and minimizing errors.",
+      "Improved data quality, governance, and security across sources. Enhanced query performance through indexing and partitioning.",
+      "Collaborated with analysts and engineers to align data solutions with business needs and drive better decision-making.",
     ],
   },
 ];
@@ -213,72 +213,72 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Huzaif proved me wrong.",
-    name: "MD Mustaqeem",
-    designation: "Ecommerce",
-    company: "QuickMart",
+      "He’s super reliable and calm under pressure. Even when things get hectic, Manju keeps a cool head and helps everyone stay focused. He’s great at finding simple solutions to complex issues.",
+    name: "Shruti Sharma",
+    designation: "Co - Worker",
+    company: "Tata Consultancy Services",
     image: firstTestimonial,
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Huzaif does.",
-    name: "Abdul Raheman",
-    designation: "Ecommerce Business",
-    company: "justbuyz",
+      "He gets things done without making a fuss. Quietly efficient.",
+    name: "Pavan Kumar Pedamalla",
+    designation: "Fellow Student",
+    company: "Montpellier Business School",
     image: secondTestimonial,
   },
   {
     testimonial:
-      "After Huzaif optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "James Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
+      "He’s the kind of teammate who works hard and never complains. Always respectful, helpful, and on point. You never have to worry about follow through when Manju is involved.",
+    name: "Shashank Chauhan",
+    designation: "Fellow Student",
+    company: "Montpellier Business School",
     image: thirdTestimonial,
   },
 ];
 
 const projects = [
   {
-    name: "Tekisky Mart",
+    name: "Sales Dashboard",
     description:
-      "Tekisky Mart is a web-based platform that allows users to search, explore, and purchase a wide range of products from various providers, offering a seamless and efficient shopping experience.",
+      "Designed interactive dashboards with theme customization, dynamic filters, advanced visuals, and heatmaps to track KPIs, sales trends, and customer performance across regions and segments.",
     tags: [
       {
-        name: "react",
+        name: "Tableau",
         color: "blue-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "Data Visualization",
         color: "white-text-gradient",
       },
       {
-        name: "node",
+        name: "Dashboards",
         color: "pink-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "Performance Metrics",
         color: "green-text-gradient",
       },
  
     ],
     image: project2,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://public.tableau.com/app/profile/manju.j3147/viz/SALESDASHBOARD_17362856385400/SalesDashboard",
   },
   {
-    name: "GearXpert",
+    name: "Johnson & Johnson",
     description:
-      "GearXpert is your ultimate destination for premium auto parts and accessories, Whether you're an automobile enthusiast or a professional, find everything you need to upgrade, repair.",
+      "Designed and implemented scalable Azure SQL and Data Warehousing solutions, built optimized data pipelines with Databricks and Azure Data Factory, and created interactive Tableau dashboards for actionable insights.",
     tags: [
       {
-        name: "react",
+        name: "Azure",
         color: "blue-text-gradient",
       },
       {
-        name: "emailJs",
+        name: "Databricks",
         color: "green-text-gradient",
       },
       {
-        name: "Gsap",
+        name: "Data Management",
         color: "pink-text-gradient",
       },
     ],
@@ -286,29 +286,29 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "GoGroove-Ecommerce",
+    name: "American Express Default Prediction",
     description:
-      "Go-Groove is your ultimate destination for premium products across various categories. Whether you're a savvy shopper or a professional, enhance, and simplify your lifestyle—all in one place!",
+      "Used LGBM with hyperparameter tuning, optimal binning, and IV techniques to improve credit default predictions, achieving a 0.76 score in the American Express Kaggle competition.",
     tags: [
       {
-        name: "react",
+        name: "Credit Default Prediction",
         color: "blue-text-gradient",
       },
       {
-        name: "express",
+        name: "LGBM",
         color: "white-text-gradient",
       },
       {
-        name: "node",
+        name: "Machine Learning",
         color: "green-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "Feature Engineering",
         color: "green-text-gradient",
       },
     ],
     image: project3,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://supdecomtp-my.sharepoint.com/:u:/g/personal/m_jayaramu_mbs-education_com/EcNstNxAbfxIuDX22M3J0DEB-RZ6TIkRjShl8Qz0eyAgeQ?e=xzclIZ",
   },
 ];
 
