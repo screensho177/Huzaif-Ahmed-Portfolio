@@ -15,6 +15,7 @@ import gearXpert from './gearXpert.png';
 import project3 from './project3.webp';
 import project2 from './proj1.webp'
 import mysql from './tech/mysql.png';
+import python from './tech/python.png'; 
 import express from './tech/express.png';
 import aws from './tech/aws.png';
 import mui from './tech/mui.png'
@@ -46,6 +47,7 @@ export {
   project2,
   project3,
   mysql,
+  python,
   express,
   aws,
   mui,
