@@ -9,6 +9,7 @@ import {
   menu,
   close,
   css,
+  azure,
   gearXpert,
   project2,
   project3,
@@ -84,6 +85,10 @@ const technologies = [
   {
     name: "CSS 3",
     icon: css,
+  },
+  {
+    name: "Azure",
+    icon: azure,
   },
   {
     name: "JavaScript",
