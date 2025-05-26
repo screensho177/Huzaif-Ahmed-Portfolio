@@ -31,7 +31,7 @@ import {
 } from '../assets'
 
 
-// /Import Tekisky separately
+// //Import Tekisky separately
 import tekisky from "../assets/company/tekisky.png";
 
 
