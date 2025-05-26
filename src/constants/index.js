@@ -19,6 +19,7 @@ import {
   etl,
   ai,
   cybersecurity,
+  MicrosoftAzure
   cloud,
   databricks, 
   postgresql,
@@ -123,11 +124,6 @@ const technologies = [
     name: "CSS 3",
     icon: css,
   },
-  {
-    name: "Azure",
-    icon: azure,
-  },
-
  
   {
     name: "Three JS",
