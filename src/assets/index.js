@@ -16,7 +16,6 @@ import cybersecurity from './cybersecurity.png';
 import databricks from './tech/databricks.png';
 import mysql from './tech/mysql.png';
 import python from './tech/python.png'; 
-import aws from './tech/aws.png';
 import postgresql from './tech/postgresql.png';
 import docker from './tech/docker.png';
 import cloud from './tech/cloud.png';
@@ -48,7 +47,6 @@ export {
   databricks,
   mysql,
   python,
-  aws,
   postgresql,
   docker,
   firstTestimonial,
@@ -60,4 +58,3 @@ export {
   threejs,
 
 };
-// 

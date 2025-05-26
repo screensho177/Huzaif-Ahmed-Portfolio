@@ -8,8 +8,6 @@ import {
   github,
   menu,
   close,
-  css,
-  azure,
   gearXpert,
   project2,
   project3,
@@ -19,7 +17,7 @@ import {
   etl,
   ai,
   cybersecurity,
-  MicrosoftAzure
+  MicrosoftAzure,
   cloud,
   databricks, 
   postgresql,
@@ -27,8 +25,6 @@ import {
   git,
   html,
   mongodb,
-  redux,
-  tailwind,
   threejs,
   firstTestimonial,
   secondTestimonial,
@@ -120,22 +116,10 @@ const technologies = [
     name: "HTML 5",
     icon: html,
   },
-  {
-    name: "CSS 3",
-    icon: css,
-  },
  
   {
     name: "Three JS",
     icon: threejs,
-  },
-  {
-    name: "Redux Toolkit",
-    icon: redux,
-  },
-  {
-    name: "AWS",
-    icon: aws,
   },
   {
     name: "MongoDB",
