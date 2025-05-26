@@ -12,11 +12,11 @@ import project2 from './proj1.webp'
 import MicrosoftAzure from './tech/MicrosoftAzure.png';
 import etl from './tech/etl.png';
 import ai from './tech/ai.png';
+import cybersecurity from './cybersecurity.png';
 import databricks from './tech/databricks.png';
 import mysql from './tech/mysql.png';
 import python from './tech/python.png'; 
 import postgresql from './tech/postgresql.png';
-import docker from './tech/docker.png';
 import cloud from './tech/cloud.png';
 import git from "./tech/git.png";
 import html from "./tech/html.png";
@@ -47,7 +47,6 @@ export {
   mysql,
   python,
   postgresql,
-  docker,
   firstTestimonial,
   secondTestimonial,
   thirdTestimonial,
