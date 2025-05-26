@@ -40,7 +40,7 @@ export {
   project3,
   MicrosoftAzure,
   etl,
-  ai,
+  AI,
   cybersecurity,
   cloud,
   databricks,
@@ -54,5 +54,4 @@ export {
   html,
   mongodb,
   threejs,
-
 };
