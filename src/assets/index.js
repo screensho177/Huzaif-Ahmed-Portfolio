@@ -9,10 +9,9 @@ import close from "./close.svg";
 import gearXpert from './gearXpert.png';
 import project3 from './project3.webp';
 import project2 from './proj1.webp'
-import MicrosoftAzure from './tech/azure.png';
+import MicrosoftAzure from './tech/MicrosoftAzure.png';
 import etl from './tech/etl.png';
 import ai from './tech/ai.png';
-import cybersecurity from './cybersecurity.png';
 import databricks from './tech/databricks.png';
 import mysql from './tech/mysql.png';
 import python from './tech/python.png'; 

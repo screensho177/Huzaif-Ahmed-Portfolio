@@ -15,12 +15,10 @@ import {
   python,
   etl,
   ai,
-  cybersecurity,
   MicrosoftAzure,
   cloud,
   databricks, 
   postgresql,
-  docker,
   git,
   html,
   mongodb,
@@ -28,6 +26,7 @@ import {
   firstTestimonial,
   secondTestimonial,
   thirdTestimonial,
+  cybersecurity,
 } from '../assets'
 
 
@@ -78,10 +77,6 @@ const technologies = [
     icon: MicrosoftAzure,
   },
   {
-    name: "Docker",
-    icon: docker,
-  },
-  {
     name: "PostgreSQL",
     icon: postgresql,
   },
@@ -96,10 +91,6 @@ const technologies = [
   {
     name: "ETL",
     icon: etl,
-  },
-  {
-    name: "Cybersecurity",
-    icon: cybersecurity,
   },
   {
     name: "Cloud",
@@ -121,6 +112,10 @@ const technologies = [
   {
     name: "MySql",
     icon: mysql,
+  },
+  {
+    name: "cybersecurity",
+    icon: cybersecurity,
   },
   {
     name: "Python",
