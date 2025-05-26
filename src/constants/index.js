@@ -13,7 +13,6 @@ import {
   project3,
   mysql,
   python,
-  aws,
   etl,
   ai,
   cybersecurity,
@@ -32,7 +31,7 @@ import {
 } from '../assets'
 
 
-// Import Tekisky separately
+// /Import Tekisky separately
 import tekisky from "../assets/company/tekisky.png";
 
 
@@ -105,13 +104,7 @@ const technologies = [
   {
     name: "Cloud",
     icon: cloud,
-  },
-  {
-    name: "aws",
-    icon: aws,
-  },
-
-  
+  }, 
   {
     name: "HTML 5",
     icon: html,
