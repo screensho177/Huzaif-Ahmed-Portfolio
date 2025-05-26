@@ -14,7 +14,6 @@ import {
   mysql,
   python,
   etl,
-  ai,
   MicrosoftAzure,
   cloud,
   databricks, 
@@ -27,6 +26,7 @@ import {
   secondTestimonial,
   thirdTestimonial,
   cybersecurity,
+  AI,
 } from '../assets'
 
 
@@ -86,7 +86,7 @@ const technologies = [
   },
   {
     name: "AI",
-    icon: ai,
+    icon: AI,
   },
   {
     name: "ETL",
