@@ -12,7 +12,7 @@ import project2 from './proj1.webp'
 import MicrosoftAzure from './tech/MicrosoftAzure.png';
 import etl from './tech/etl.png';
 import AI from './tech/AI.png';
-import cybersecurity from './cybersecurity.png';
+import cybersecurity from './tech/cybersecurity.png';
 import databricks from './tech/databricks.png';
 import mysql from './tech/mysql.png';
 import python from './tech/python.png'; 
