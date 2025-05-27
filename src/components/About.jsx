@@ -72,9 +72,12 @@ const About = () => {
       </div>
 
       <p ref={paragraphRef} className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]">
-        I'm a skilled software developer with experience in  JavaScript, and expertise in frameworks 
-        like React, Node.js, and Three.js. I'm a quick learner and collaborate closely with clients to create efficient, 
-        scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!
+        I'm a skilled Data Engineer with 4+ years of experience in Big Data processing, ETL pipeline development,
+        cloud infrastructure optimization, and real-time data streaming. Skilled in designing scalable, high
+        performance data architectures using Python, SQL, Spark, and Kafka. Proficient in AWS, GCP, Azure,
+        Kubernetes, and Terraform for cloud-based data solutions. Strong background in data modeling, data
+        warehousing, and distributed computing, with a passion for AI-driven analytics and automation. Adept at
+        collaborating with cross-functional teams to optimize workflows and DevOps integration.
       </p>
 
       <div className="mt-20 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 justify-items-center gap-10">

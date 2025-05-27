@@ -44,7 +44,7 @@ const Navbar = () => {
         >
           <img src={logo} alt='logo' className='w-9 h-9 object-contain' />
           <p className='text-white text-[18px] font-bold cursor-pointer flex '>
-            Huzaif &nbsp;
+            Manju &nbsp;
             <span className='sm:block hidden'> | Devxora</span>
           </p>
         </Link>
@@ -100,3 +100,4 @@ const Navbar = () => {
 };
 
 export default Navbar;
+// 
